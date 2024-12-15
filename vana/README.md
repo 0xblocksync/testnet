@@ -1,6 +1,7 @@
 ## Vana DLP Setup Guide
 ### Setting Up Your Environment
 This guide will walk you through setting up the necessary tools and environment for either creating a DLP (Data Liquidity Pool) or joining one as a validator.
+> **⚠️ Warning:** Please run the validator only after conducting your own research and at your own risk. To activate the validator, you may need to be whitelisted, which requires staking 35,000 $VANA.
 ## Requirements
 For all participants:
 - Git
