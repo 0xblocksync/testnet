@@ -1,4 +1,4 @@
-
+![Pell Network | BTC Restaking](https://raw.githubusercontent.com/0xblocksync/testnet/refs/heads/main/pell/1500x500.jpg)
 # Install dependencies, if needed
 
     sudo apt update && sudo apt upgrade -y
