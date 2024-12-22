@@ -6,7 +6,8 @@
 
 Welcome to the **BrinX AI** Relay and Worker Node setup guide! Follow these simple steps to install and configure your relay or worker node to support the BrinX AI network.
 
-![image](https://github.com/user-attachments/assets/14d02543-5279-415e-9833-8ed87a90c841)
+![image](https://github.com/user-attachments/assets/3b413181-9935-43c3-91e2-91fea86f8566)
+
 
 Here’s a README section for "Minimum Requirements":
 
