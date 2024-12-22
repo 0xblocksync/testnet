@@ -68,8 +68,12 @@ To check the status of your node, view the logs:
 sudo docker logs brinxai-worker-nodes-worker-1
 ```
 **Note: You can choose the right Model that meet to you server!! See the below images how to do:**
+
 ![Pick the right Models](https://raw.githubusercontent.com/0xblocksync/testnet/refs/heads/main/binxai/binxai1.png)
 ![enter image description here](https://raw.githubusercontent.com/0xblocksync/testnet/refs/heads/main/binxai/brinxai2.png)
+
+**Then Copy the docker command and paste to your VPS**
+
 #### 7. Register Your Worker Node
 1. Visit [BrinX AI Worker Registration](https://workers.brinxai.com/register.php?ref=8b38cbca))
 2. Create an account and log in
